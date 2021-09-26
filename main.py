@@ -1,5 +1,5 @@
 from pyrebase import pyrebase
-from Key import keys
+from Key import key
 import time
 
 from ActuSpace import actuspace
