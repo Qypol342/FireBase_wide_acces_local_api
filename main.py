@@ -4,8 +4,9 @@ import time
 
 from ActuSpace import actuspace
 from ActuAviation import actuaviation
+from Actu import actu
 
-api_list =[actuspace, actuaviation]
+api_list =[actuspace, actuaviation,actu]
 
 
 
