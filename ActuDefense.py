@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-def get_news():
+def defense():
 	resul = {}
 
 	r = requests.get("https://www.air-cosmos.com/actualite/aviation-civile")
